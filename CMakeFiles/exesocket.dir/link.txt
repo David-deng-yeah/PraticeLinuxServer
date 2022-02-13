@@ -1,1 +1,0 @@
-g++  -O3 -O3 -DNDEBUG CMakeFiles/exesocket.dir/src/main.cpp.o CMakeFiles/exesocket.dir/src/Data.cpp.o CMakeFiles/exesocket.dir/src/Epoll.cpp.o CMakeFiles/exesocket.dir/src/Server.cpp.o CMakeFiles/exesocket.dir/src/Socket.cpp.o CMakeFiles/exesocket.dir/src/ThreadPool.cpp.o CMakeFiles/exesocket.dir/src/Util.cpp.o -o exesocket  -lpthread 

@@ -1,1 +1,0 @@
-g++  -O3 -O3 -DNDEBUG CMakeFiles/webserver.dir/src/main.cpp.o -o webserver  -lpthread 
