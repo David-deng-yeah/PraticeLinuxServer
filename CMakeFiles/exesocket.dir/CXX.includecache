@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fly/fly/exeSocket/src/Data.h
+Socket.h
+/home/fly/fly/exeSocket/src/Socket.h
+memory
+-
+
+/home/fly/fly/exeSocket/src/Epoll.cpp
+iostream
+-
+vector
+-
+cstring
+-
+Epoll.h
+/home/fly/fly/exeSocket/src/Epoll.h
+Util.h
+/home/fly/fly/exeSocket/src/Util.h
+
+/home/fly/fly/exeSocket/src/Epoll.h
+unordered_map
+-
+sys/epoll.h
+-
+Data.h
+/home/fly/fly/exeSocket/src/Data.h
+
+/home/fly/fly/exeSocket/src/Socket.h
+sys/socket.h
+-
+netinet/in.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+
+/home/fly/fly/exeSocket/src/Util.h
+
